@@ -1,22 +1,19 @@
-# Atividade-individual---Tema-Exemplos-TRIGGERS-  EXEMPLO 1
+# Atividade-individual---Tema-Exemplos-TRIGGERS-  EXEMPLO 2
 
 # Descrição da atividade 
-REPRODUZA OS DOIS EXEMPLOS DADOS NO MYSQL WORKBENCH;
+PARA O SEGUNDO EXEMPLO CRIE UMA BRANCH DENTRO DO SEU REPOSITÓRIO REMOTO, NOMEIE A BRANCH COMO EXEMPLO DOIS, MODIFIQUE SEU README.MD COM INFORMAÇÕES DO SEGUNDO EXEMPLO E ASSIM COMO O PRIMEIRO TIRE UM PRINT DO MODELO LÓGICO E INSIRA NO README.MD;
 
-EXECUTE AS ETAPAS E VERIFIQUE SEUS RESULTADOS;
-
-VEJA OS RESULTADOS OBTIDOS A CADA TAREFA REALIZADA E TIRE PRINT’S DOS RESULTADOS;
-
-POR FIM, MONTE UM REPOSITÓRIO REMOTO E PREENCHA O README.MD COM O MODELO LÓGICO MONTADO DO PRIMEIRO EXEMPLO, SOMENTE UM PRINT DO MODELO E DENTRO DO SEU REPOSITÓRIO REMOTO FEITO COLOQUE O CÓDIGO SQL DO PRIMEIRO EXEMPLO;
+REMOVA O SCRIPT DO PRIMEIRO EXEMPLO E INSIRA O CÓDIGO NA BRANCH DO EXEMPLO DOIS;
 
 # Etapas
-![ETAPA 1](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/7657cebd-36ce-44aa-b3f5-c0695a94d25f)
-![ETAPA 2](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/d640cd71-3951-4b28-b3ae-a3b6b990fcab)
-![ETAPA 3 E 4](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/f864c114-550d-455b-98b8-28d660b569fc)
+![EXEMPLO 2 ETAPA 5](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/dd0d0db2-28e8-4d09-9072-133330d632f7)
+![image](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/5b2d2f33-5637-4a2e-af46-50694f890ec6)
 
 
-# modelo lógico exemplo 1 
-![MODELO LÓGICO EXEMPLO 1](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/b3895bf2-3a6f-491d-9718-cc564d7fa5c2)
+
+# modelo lógico exemplo 2
+![MODELO LÓGICO EXEMPLO 2](https://github.com/Lumarcone/Atividade-individual---Tema-Exemplos-TRIGGERS-/assets/137897667/61b56501-930a-4495-817e-6054c87eed49)
+
 
 * FOU UTILIZADO O MODEL DO MYSQL WORKBENCH
 
